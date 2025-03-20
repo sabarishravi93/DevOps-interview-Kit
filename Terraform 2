@@ -1,0 +1,34 @@
+What are the benefits of using Terraform over traditional configuration management tools like Ansible or Chef?
+Explain the purpose of the terraform.tfstate file and the role of state in Terraform's operations.
+What are Input and Output Variables in Terraform? How are they used?
+What is a Terraform Module? Why would you use it?
+What is a data block in Terraform?
+Explain how data sources work and when you might use them.
+What is the terraform import command used for?
+Discuss how to bring existing resources under Terraform management.
+Explain the purpose of terraform state commands.
+Describe commands like terraform state list, terraform state show, and terraform state mv.
+What is the difference between count and for_each in Terraform?
+When would you use one over the other?
+Explain how to manage sensitive data in Terraform (e.g., passwords or secrets).
+Discuss sensitive = true, environment variables, and the use of tools like Vault.
+What is a locals block and how does it differ from variables?
+How does Terraform handle resource updates and deletions when running terraform apply?
+What happens when each command is run?
+How can you manage multiple environments (e.g., dev, staging, production) with Terraform?
+Discuss workspaces, variables, or separate configurations.
+Explain Terraform's "execution plan" and how it is generated.
+How does Terraform decide what changes are needed based on the current state?
+How does Terraform handle concurrent resource creation and updating?
+Discuss how Terraform plans and executes changes to avoid race conditions or conflicts.
+What is the role of terraform validate and terraform fmt?
+What is the terraform.workspace variable, and how do you use it?
+Discuss how workspaces can be used for managing multiple environments in a Terraform project.
+What are some best practices for organizing Terraform code?
+Discuss modularization, version control, state management, and naming conventions.
+How do you deal with Terraform state drift?
+What steps do you take if Terraform’s state becomes out of sync with the actual infrastructure?
+Explain Terraform's lifecycle block and its options (e.g., create_before_destroy, prevent_destroy).
+How would you use terraform taint and terraform untaint commands?
+Explain how you would debug issues in a Terraform run.
+Discuss the -debug flag, logging, and common troubleshooting techniques.
