@@ -1,0 +1,16 @@
+How do you ensure High availablity and fault tolerance in architecture using AWS EC2 and lambda
+Could you also elaborate on how you would ensure fault tolerance in this architecture
+could you explain some best practices for optimizing costs in AWS infrstructure
+could please describe best practices for monitoring AWS resource to ensure Reliablity
+how would you approach designing a secure AWS infrstructure that complies with industry standards and regulation
+How would you go about setting up automated backups for aws resources to ensure data intergrity and availablity
+How do you you address security concerns when migrating sensitive data to aws ensure both compliance and protection
+can you discuss some common AWS security services that aid in maintaining compliance with industry standards
+could you explainh how you would implement encrytption straregies to protect data both at resr and in transit withing an AWS environments
+How would you ensure network security withing an AWS VPC to protect against unauthorized access
+could you describe how AWS identity and access management (IAM) can be used to enhance security and compliance withing an aws environments
+how would you approach optimizing the performance of serverless application using AWS lambda
+can you discuss how you would implement continuous integration and continuous deployment (CI/CD) pipelines to ensure efficent and reliable reliable software delievery using AWS services
+how would you immplement a roubust logging and monitoring system for a serverless applications to ensure optimal performace and quick troubleshooting
+how would you implement disaster recovery straregies in aws to ensure business continuity
+can you discuss how you would leverage AWS lambda for event-driven architecture to improve system responsiveness and scalablity
